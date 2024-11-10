@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The design outputs the number 1 on the 7-segment if switch[0] is high. This will repeat, so for switch [2] it will output number 2, and so on.
 
 ## How to test
 
-Explain how to use your project
+Turn on the switches and make sure that it outputs it's corresponding number.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED Display and switches 
